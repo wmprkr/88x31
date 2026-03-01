@@ -2,4 +2,18 @@
 
 Badges for your blog.
 
-![bb-bw](bb-bw.wepb)
+![img](bb-bw.webp)
+
+![img](bb-default.webp)
+
+![img](bb-discover-default2.webp)
+
+![img](bb-inverted.webp)
+
+![img](obsidian.webp)
+
+![img](pixelfed-blk.png)
+
+![img](pixelfed.png)
+
+![img](small-web.webp)
